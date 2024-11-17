@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**deepak5-ux/deepak5-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deepak , a passionate developer with expertise in computer vision, web development, and creative problem-solving. 
 
-Here are some ideas to get you started:
+## 🔭 Current Projects:
+- **[Object Removal using OpenCV](https://github.com/deepak5-ux/Object-Removal-Using-OpenCV.git):** Removing unwanted objects in images with advanced inpainting techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Goals:
+- Mastering AI and machine learning frameworks like TensorFlow and PyTorch.
+- Contributing to open-source projects in image processing and web development.
+
+## 🚀 Skills:
+- **Programming Languages:** Java, Python, JavaScript
+- **Frameworks & Tools:** OpenCV, React, Node.js, MongoDB
+- **Areas of Interest:** Computer Vision, Full-Stack Development, Machine Learning
+
+## 📫 Let's Connect:
+- GitHub: [deepak5-ux] (https://github.com/deepak5-ux)
+- LinkedIn: [deepak511](https://www.linkedin.com/in/deepak511/)
