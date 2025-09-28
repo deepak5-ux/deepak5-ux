@@ -1,51 +1,73 @@
-# 👋 Hi, I'm Deepak B
-
-🎯 **Aspiring Backend & MLOps Engineer** | 💡 AI & ML Enthusiast | 🚀 Project-Driven Learner  
-
----
-
-## 👨‍💻 About Me
-
-I'm a AI/ML student passionate about building intelligent and scalable systems using **Machine Learning**, **Backend APIs**, and **Cloud-native tools**.
-
-- 🔧 Skilled in Python, FastAPI, Docker, SQL, and MLOps practices  
-- 🌐 Interested in solving real-world problems with intelligent APIs and automation  
-- 📈 Always learning — from cloud cost optimization to secure ML deployments  
-- 🛠️ Focused on building deployable, production-ready tech from scratch
+<h1 align="center">👋 Hi, I'm Deepak B</h1>
+<h3 align="center">🚀 DevOps & Cloud Enthusiast | 🎓 Final-year AIML Student</h3>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🔹 Cloud Cost Optimizer API
-Recommends optimal AWS resources using user-defined workload, traffic, and budget. Combines ML prediction with a rule-based fallback.  
-**Tech:** FastAPI, Docker, Render, ML, Logging, Secure Auth
-
-### 🔹 Phishing Email Detector API
-Detects phishing emails in real-time using Random Forest and TF-IDF. Production-ready with logging, auth, and containerization.  
-**Tech:** FastAPI, Scikit-learn, Docker, Render, Logging
-
-### 🔹 Object Removal with OpenCV
-Desktop app using inpainting techniques to remove unwanted objects from images through drag-and-select.  
-**Tech:** OpenCV, Tkinter, NumPy
+## 💡 About Me  
+- 🌱 Exploring **DevOps, Cloud, and Infrastructure as Code**  
+- 🔧 Skilled in **AWS, Kubernetes, Docker, Terraform, Jenkins, Ansible**  
+- 🐧 Passionate about **Linux, automation, and CI/CD pipelines**  
+- 🎯 Goal: Start my career as a **DevOps/Cloud Engineer** and contribute to scalable cloud solutions  
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Tech Stack  
 
-**Languages:** Python, Java, SQL  
-**Frameworks:** FastAPI, Django, Express.js  
-**DevOps & Cloud:** Docker, Render, Git
-**Databases:** MySQL, MongoDB
-**ML Tools:** Scikit-learn, TensorFlow (basic)
-**Frontend (basic):** React.js, Bootstrap  
-**Visualization:** Power BI
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📂 Featured Projects  
 
-- 💼 [LinkedIn](https://linkedin.com/in/deepak511)  
-- 📄 [View My Resume](https://drive.google.com/file/d/1dQdoASQ_dr9_Rq9HqZSq9GYHe4TjVVou/view?usp=drive_link) 
-- 💬 Always open to learning, building, and collaborating!
+### 🚀 [Deployment of 2048 Game on Amazon EKS](https://github.com/deepak5-ux/EKS-game-deploy)  
+- Deployed a **containerized 2048 game** on Amazon EKS.  
+- Used **Kubernetes Deployment, Service, Ingress** and **ALB Ingress Controller**.  
+- Configured **IAM OIDC** and automated setup with **eksctl**.  
 
+### ⚡ [AWS VPC Infrastructure with Terraform](https://github.com/deepak5-ux/terraform-vpc-setup)  
+- Built a **custom AWS VPC** with subnets, route tables, and security groups.  
+- Automated **EC2 provisioning** with user data and Application Load Balancer.  
+- Followed **IaC best practices** with Terraform modules.  
+
+### 🐳 [End-to-End CI/CD Pipeline for Java App](https://github.com/deepak5-ux/Jenkins-java-app)  
+- Designed a pipeline using **Jenkins, SonarQube, Docker, Kubernetes, Argo CD**.  
+- Automated build, test, containerization, and GitOps-based deployment.  
+- Improved delivery efficiency and scalability.  
+
+---
+
+## 🏆 Achievements & Certifications  
+- ✅ MongoDB Associate Developer  
+- ✅ GitOps with ArgoCD – Linux Foundation  
+- ✅ AWS Skill Builder Badge: Cloud Foundations  
+- ✅ Completed **5+ DevOps projects** demonstrating real-world scenarios  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/deepak511" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/deepak5-ux" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:deepakbalraj511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *“Automating today for a scalable tomorrow.”* ✨
